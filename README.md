@@ -107,4 +107,4 @@ Anyone can verify the priority of this work by checking:
 
 **Created by**: [Alex Cload]  
 **Date**: March 23, 2026  
-**GitHub Repository**: [https://github.com/yourusername/amdisplaypro-priority](https://github.com/AmDisplayPro/amdisplaypro-priority)
+**GitHub Repository**: [https://github.com/AmDisplayPro/amdisplaypro-priority](https://github.com/AmDisplayPro/amdisplaypro-priority)
